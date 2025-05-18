@@ -1,7 +1,7 @@
 - 👋🏽 Hi, I’m @r-parkhi
 - 💗 I’m interested in ... computer science & graphic design
 - 🌱 I’m currently learning ... web app development
-- ✨ My hobbies: dance, badminton, cooking
+- ✨ My hobbies: dance, badminton, cooking, & art
 - ❓ Pronouns: she/her
 
 
