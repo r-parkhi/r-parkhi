@@ -1,11 +1,10 @@
-- 👋🏽 Hi, I’m @r-parkhi
-- 💗 I’m interested in ... computer science & graphic design
-- 🌱 I’m currently learning ... web app development
-- ✨ My hobbies: dance, badminton, cooking, & art
-- ❓ Pronouns: she/her
+# Hi, I’m Radhika!
+❓ **Pronouns**: she/her <br />
+✨ **My hobbies**: dance, badminton, cooking, & art
+<br /> <br />
 
-
-<!---
-r-parkhi/r-parkhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 💗 I’m interested in...
+- computer science
+- graphic design
+#### 🌱 I’m currently learning...
+- web app development → check out [LunchTime!](https://lunchtime-login-cb48a.web.app/)
