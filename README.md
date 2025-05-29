@@ -1,7 +1,7 @@
 # Hi, I’m Radhika!
 ❓ **Pronouns**: she/her <br />
 ✨ **My hobbies**: dance, badminton, cooking, & art
-<br /> <br />
+<br />
 
 #### 💗 I’m interested in...
 - computer science
