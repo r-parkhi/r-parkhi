@@ -5,6 +5,7 @@
 
 #### 💗 I’m interested in...
 - computer science
+- product design
 - graphic design
 #### 🌱 I’m currently learning...
-- web app development → check out [LunchTime!](https://lunchtime-login-cb48a.web.app/)
+- Python & preparing for hackathons
