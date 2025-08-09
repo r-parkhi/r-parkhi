@@ -8,4 +8,3 @@
 - product design
 - graphic design
 #### 🌱 I’m currently learning...
-- Python & APIs
