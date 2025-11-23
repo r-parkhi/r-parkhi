@@ -1,10 +1,11 @@
 # Hi, I’m Radhika!
 ❓ **Pronouns**: she/her <br />
-✨ **My hobbies**: dance, badminton, cooking, & art
+✨ **My hobbies**: dance, badminton, cooking, art, & reading
 <br />
 
 #### 💗 I’m interested in...
 - computer science
-- product design
+- cognitive science
 - graphic design
 #### 🌱 I’m currently learning...
+- machine learning (soon)
