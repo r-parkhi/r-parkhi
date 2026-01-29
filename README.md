@@ -8,4 +8,4 @@
 - cognitive science
 - graphic design
 #### 🌱 I’m currently learning...
-- machine learning (soon)
+- machine learning
